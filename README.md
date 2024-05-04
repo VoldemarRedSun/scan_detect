@@ -1,1 +1,1 @@
-# scan_detect
+# spam_detect
